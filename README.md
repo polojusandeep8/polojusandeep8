@@ -1,4 +1,4 @@
-# Hi there, I'm Rakesh Pole! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
+# Hi there, I'm Sandeep Poloju <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
 <p>
   <img src="https://img.shields.io/badge/Lives-India-blue" alt="Lives in India" />
@@ -9,14 +9,13 @@
 
 <img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 
-Hello! I'm **Rakesh Pole**, a passionate **Full Stack Developer**, **Blockchain Enthusiast**, and **Ui/Ux Designer**. Currently, I'm pursuing my Bachelor's in Computer Science at [Malla Reddy Engineering College ](https://www.mrec.ac.in/) in Hyderabad. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains.
+Hello! I'm **Sandeep Poloju**, a passionate **Full Stack Developer**, **Blockchain Enthusiast**. Currently, I'm pursuing my Bachelor's in Computer Science at [Malla Reddy Engineering College ](https://www.mrec.ac.in/) in Hyderabad. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains.
 
 
 - 🔭 I'm currently working on developing full stack and blockchain projects 
-- 🎨 I'm improving my designer skills more responsive and 3D 
 - 🌱 I'm continuously learning new technologies in web development, blockchain, and artificial intelligence  
 - 👯 I'm looking to collaborate with like-minded developers and researchers  
-- 💬 Ask me about React, Next.js, Node.js, Blockchain, AI, Data Structures, Algorithms, and more  
+- 💬 Ask me about React, Node.js, Blockchain, AI, Data Structures, Algorithms, and more  
 - 😄 Pronouns: His/He
 
 
